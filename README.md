@@ -1,6 +1,5 @@
 # Beela Raj NayanaTara
 
-# Python Minor Project 
 
 # HANGMAN GAME
 # It is a game of guessing the correct word letter by letter with the help of given question from the category choosen.
