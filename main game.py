@@ -1,3 +1,5 @@
+"""random.choice(list_name)
+This function retrieves a single element from the list."""
 import random
 print("CHOOSE A CATEGORY")
 print(categories)
